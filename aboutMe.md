@@ -25,8 +25,11 @@ IT Project manager
 Cyber risk analyst  
 Tutor  
 
+Q: Why don't you pursue BA? I hear that's a really cool job!
+A: I want to but I find it hard for me to show my ability. I say that I'm an ecommerce expert, would you believe? Nah, this job's related skill can only be shown through talking. Just too hard for me prove. English is not my first language. T_T 
+
 ## Work rights
-Full working rights in Australia and China mainland. 
+Full working rights in Australia. 
 
 ## My reflection 
 There are several reasons which lead me to the current status.

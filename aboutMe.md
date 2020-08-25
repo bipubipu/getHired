@@ -25,7 +25,7 @@ IT Project manager
 Cyber risk analyst  
 Tutor  
 
-❓ Why don't you pursue BA? I hear that's a really cool job!
+❓ Why don't you pursue BA? I hear that's a really cool job!  
 ✔️ I want to but I find it hard for me to show my ability. I say that I'm an ecommerce expert, would you believe? Nah, this job's related skill can only be shown through talking. Just too hard for me prove.  
 
 ## Work rights

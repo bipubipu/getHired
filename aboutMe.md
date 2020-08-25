@@ -1,3 +1,5 @@
+Don't be confused by the name of bipubipu which has no specific meaning. I'm more well-recognised as geek lady or Cathy.  
+
 ## Career goal
 I'm training myself to be a software developer. 💻
 
@@ -11,6 +13,9 @@ System analyst/ Technical business analyst
 IT Project manager   
 Cyber risk analyst  
 Tutor  
+
+## Work rights
+Full working rights in Australia and China mainland. 
 
 ## My reflection 
 There are several reasons which lead me to the current status.

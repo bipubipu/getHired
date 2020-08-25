@@ -1,4 +1,4 @@
-Don't be confused by the name of bipubipu which has no specific meaning. I'm more well-recognised as geek lady.  
+Don't be confused by the name of bipubipu which has no specific meaning. I'm more well-recognised as geek lady!  
 
 ## Career goal
 I'm training myself to be a software developer💻  
@@ -14,8 +14,8 @@ Apart from personal interests, here are other factors which make me set up my mi
 * Coding skills can be picked up easier than communication (which needs at least two people!)
 * I might have gift in it? My instrinct.
 
-Q: What?? I remember you were super into cybersecurity.  
-A: I'm still are. Cybersecurity is like flowing in my blood perhaps I just like mystery, puzzle solving. But in reality, it is not an entry level job for people almost without experience like me. Plus, I'm not a citizen.
+❓ What?? I remember you were super into cybersecurity.  
+✔️ I'm still are. Cybersecurity is like flowing in my blood perhaps I just like mystery, puzzle solving. But in reality, it is not an entry level job for people almost without experience like me. Plus, I'm not a citizen. T_T 
 
 ## Work history
 Editor  
@@ -25,8 +25,8 @@ IT Project manager
 Cyber risk analyst  
 Tutor  
 
-Q: Why don't you pursue BA? I hear that's a really cool job!
-A: I want to but I find it hard for me to show my ability. I say that I'm an ecommerce expert, would you believe? Nah, this job's related skill can only be shown through talking. Just too hard for me prove. English is not my first language. T_T 
+❓ Why don't you pursue BA? I hear that's a really cool job!
+✔️ I want to but I find it hard for me to show my ability. I say that I'm an ecommerce expert, would you believe? Nah, this job's related skill can only be shown through talking. Just too hard for me prove.  
 
 ## Work rights
 Full working rights in Australia. 

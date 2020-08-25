@@ -4,16 +4,16 @@ Don't be confused by the name of bipubipu which has no specific meaning. I'm mor
 I'm training myself to be a software developer💻  
 
 My interests start from preparing for C language programming exam. I was very bad at it in the beginning but after a month of daily training, I got addicted.
-As my major in uni is not computer science or software development, and at that time, few girls chose this as a career. <strong>See it and you can be it.</strong> I didn't pursue it after graduation. By the way, I studied Atmospheric Science (branch of Earth Science) where we were required to program in FORTRAN or MATLAB.
+As my major in uni is not computer science or software development, and at that time, very few girls chose this as a career. <strong>See it and you can be it.</strong> I didn't pursue it after graduation. By the way, I studied Atmospheric Science (branch of Earth Science) where we were required to program in FORTRAN or MATLAB.
 
-Then time comes to 2020, a year that changed many people's lives, like me.
+Then time comes to 2020, a year that changed many people's lives, including me.
 
 Apart from personal interests, here are other factors which make me set up my mind:  
 * IT industry is the least impacted industry by the pandemic. In other words, it's more resilient.
 * Developer is the occupation which cares least about education and work experience. It can be translated as 'super friendly for career changers'.
 * So many successful stories of career changers. Very clear path for beginners.
-* Coding skills can be picked up easier than communication (which needs at least two people!)
-* I might have gift in it? My instrinct.
+* Coding skills can be picked up more easily than communication (which needs at least two people!)
+* I might have a gift in it? My intuition.
 
 In a sentence, software development is my IKIGAI.
 

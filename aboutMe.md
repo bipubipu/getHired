@@ -2,6 +2,7 @@ Don't be confused by the name of bipubipu which has no specific meaning. I'm mor
 
 ## Career goal
 I'm training myself to be a software developer💻  
+
 My interests start from preparing for C language programming exam. I was very bad at it in the beginning but after a month of daily training, I got addicted.
 As my major in uni is not computer science or software development, and at that time, few girls chose this as a career. <strong>See it and you can be it.</strong> I didn't pursue it after graduation. By the way, I studied Atmospheric Science (branch of Earth Science) where we were required to program in FORTRAN or MATLAB.
 
@@ -13,6 +14,8 @@ Apart from personal interests, here are other factors which make me set up my mi
 * So many successful stories of career changers. Very clear path for beginners.
 * Coding skills can be picked up easier than communication (which needs at least two people!)
 * I might have gift in it? My instrinct.
+
+In a sentence, software development is my IKIGAI.
 
 ❓ What?? I remember you were super into cybersecurity.  
 ✔️ I'm still are. Cybersecurity is like flowing in my blood perhaps I just like mystery, puzzle solving. But in reality, it is not an entry level job for people almost without experience like me. Plus, I'm not a citizen. T_T 

@@ -24,8 +24,11 @@ GitHub is:
 * good at version control
 
 ## Why do you set a 3 month restriction?
-A time frame is good for both you(supporter) and me. If you care about the result but don't want to know details, check this repo 3 months later. Another reason is 
+A timeframe is good for both you(supporter) and me. If you care about the result but don't want to know details, check this repo 3 months later. Another reason is 
 that my current saving can only support me for another 3 months. If I can't achieve the goal, I'll leave this country. 
+
+## Why do you just start?
+I I I don't have much to show before o(T﹏T)o
 
 ## How does it work?
 It utilises the theory of six degrees of separation. The more people participated, the better result it would be.

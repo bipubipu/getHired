@@ -1,0 +1,54 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Geek Lady</title>
+    <link href="style.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
+    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Geek Lady</h1>
+        <section class="bio">
+            <ul>
+                <li>I'm a <a href="https://www.freecodecamp.org/" title="FreeCodeCamp">self-taught</a> developer.</li>
+                <li>I build some <a href="https://github.com/bipubipu" title="GitHub">projects</a>.</li>
+                <li>I write <a href="https://geekladysite.wordpress.com/" title="Wordpress">blogs</a>.</li>
+                <li>I seldom <a href="https://www.bsidesmelbourne.com/" title="Bsides">speak</a> in public.</li>
+                <li class="expand">I've <span>worked</span> for these companies</li>
+                <ul>
+                <li><a href="https://www.kroll.com/en">Kroll</a></li>
+                <li><a href="http://www.hand-usa.com/">Hand</a></li>
+                </ul>
+                <li>I also <a href="https://www.awsn.org.au/" title="AWSN">volunteer</a>.</li>
+                <li>I like <a href="https://www.bbc.co.uk/doctorwho/" title="Dr.Who">Sci-Fi</a>, <a href="https://www.thejazzhopcafe.com/" title="JazzHop">music</a>, <a href="https://www.goodreads.com/book/show/21031.When_Nietzsche_Wept" title="When Nietzsche Wept">books</a></li>
+
+            </ul>
+        </section>
+       
+        <section class="contact horizontal-layout">
+            <h2 class="title">Contact</h2>
+            <ul>
+                <li><a href="mailto:hello@geeklady.me">Email</a></li>
+                <li><a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/geeklady/15min'});return false;" title="Calendly">Meet</a></li>
+                <li><a href="https://www.linkedin.com/in/cathyweng/">LinkedIn</a></li>
+            </ul>
+        </section>
+        <footer>
+            Designed & built with ❤️, proudly by geeklady
+        </footer>
+    </div>
+
+    <script>
+        let companies = document.querySelector('.expand');
+        companies.onclick = function(){
+            companies.classList.toggle("open");
+        };
+    </script>
+</body>
+
+</html>

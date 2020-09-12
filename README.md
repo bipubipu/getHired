@@ -35,3 +35,6 @@ It utilises the theory of six degrees of separation. The more people participate
 
 ## Worst case senario
 No one cares. Then I'll leave without regret.
+
+## Any rules here?
+Be a human.

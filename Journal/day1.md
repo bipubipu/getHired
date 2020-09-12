@@ -1,3 +1,31 @@
+# Day 17
+# Day 16
+# Day 15
+# Day 14
+# Day 13
+# Day 12
+# Day 11
+# Day 10
+# Day 9
+# Day 8
+# Day 7
+# Day 6
+# Day 5
+# Day 4
+# Day 3
+## What's your achivement today?
+There are so many things to brag about, haha, kidding.
+Built and designed my first personal website, integrated many functions. 
+
+## What are you grateful of?
+Friends.
+The website wouldn't be possible without them.
+
+## What you wish you can do better?
+There's one saying called premature optimisation is the root of all evil. It's very true in my case. I spent excessive time in details. 
+The right way should be 'let the car run first, and then run faster.'
+
+Still, ask help. There are many people willing to help but I only wait for those who come to me first. It's really bad.
 
 # Day 2
 ## What's your achivement today?

@@ -1,3 +1,26 @@
+# Day 21
+## What's your achivement today?
+Applied for some jobs.
+Built stronger relationships with others (probably that's my gift).
+Reprioritised my tasks.
+Kept my few communities active.
+
+## What are you grateful of?
+At this moment in this world, there are still people who don't have food, clothes, a shelter. I'm lucky grateful for what I have now.
+
+## What you wish you can do better?
+I slept a little late.
+
+# Day 20
+## What's your achivement today?
+Tried a few new recipes and they ended up well.
+
+## What are you grateful of?
+Friends checked in me.
+
+## What you wish you can do better?
+I watched too much TV.
+
 # Day 19
 ## What's your achivement today?
 Talked to a potential client and might get a gig through an ex-colleague.

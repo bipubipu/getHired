@@ -1,3 +1,15 @@
+# Day 22
+## What's your achivement today?
+Applied for more jobs.
+Completed a project.
+Learned about using different packages and deployment.
+
+## What are you grateful of?
+I met some of my distant relatives through the Internet. Though we are not close, they still care a lot about me.
+
+## What you wish you can do better?
+I slept too late. How can I change this?
+
 # Day 21
 ## What's your achivement today?
 Applied for some jobs.

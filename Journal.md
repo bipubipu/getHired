@@ -1,3 +1,24 @@
+# Day 24
+## What's your achivement today?
+Solved the bug(not computer bugs) invasion crisis.
+
+## What are you grateful of?
+Talking to my mom's friend makes me admire my mom more. So lucky to be her daughter.  
+
+## What you wish you can do better?
+Stop procrastinating sending that message!
+
+# Day 23
+## What's your achivement today?
+Changed code after deployment using Git.  
+Kept applying job while receiving rejections. The rejection come sooner than before. The recruitment process has improved.  
+
+## What are you grateful of?
+The random quote machine project that I created cheered a friend up. It's really good to see tech in good use.   
+
+## What you wish you can do better?
+Slept late again.
+
 # Day 22
 ## What's your achivement today?
 Applied for more jobs.

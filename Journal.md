@@ -1,3 +1,29 @@
+# Day 26
+## What's your achivement today?
+Cooked a lot.  
+Contacted a few friends to discuss potential opportunities.  
+
+## What are you grateful of?
+A healthy body. A friend can't play sports any more for injury in joints.T_T
+
+
+## What you wish you can do better?
+I should contact people more!
+
+# Day 25
+## What's your achivement today?
+Attended a talk about answering BQ, solving algo problems.     
+Cleared tasks for the volunteer org.     
+Confirmed a gig.   
+Prepared for an interview.       
+Caught up with a few acquintances.   
+
+## What are you grateful of?
+People who support me and have faith in me.  
+
+## What you wish you can do better?
+Probably ask a question in public? Too shy to do that!
+
 # Day 24
 ## What's your achivement today?
 Solved the bug(not computer bugs) invasion crisis.

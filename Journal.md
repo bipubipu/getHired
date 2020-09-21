@@ -1,3 +1,16 @@
+# Day 27
+## What's your achivement today?
+Made a desert.  
+The project that I was stuck in had some progress.  
+Progressed on client's project too.   
+Coached a student.  
+
+## What are you grateful of?
+Family's support.
+
+## What you wish you can do better?
+Heard that an alumnus committed suicide because of depression. It is a reminder for me to check in friends who don't feel happy.   
+
 # Day 26
 ## What's your achivement today?
 Cooked a lot.  
@@ -5,7 +18,6 @@ Contacted a few friends to discuss potential opportunities.
 
 ## What are you grateful of?
 A healthy body. A friend can't play sports any more for injury in joints.T_T
-
 
 ## What you wish you can do better?
 I should contact people more!

@@ -1,3 +1,26 @@
+# Day 28
+## What's your achivement today?
+Made a GitBook about DevOps.   
+Learned more about Git.
+
+## What are you grateful of?
+This world has so many good people who made our lives better.
+
+## What you wish you can do better?
+
+
+# Day 28
+## What's your achivement today?
+Sent the first draft to the client.  
+Completed a React project.
+Did some admin work as a volunteer.
+
+## What are you grateful of?
+Received help in CSS on Twitter from a stranger.
+
+## What you wish you can do better?
+Sleep early. (I may have said this three times)
+
 # Day 27
 ## What's your achivement today?
 Made a desert.  

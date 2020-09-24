@@ -1,4 +1,15 @@
-# Day 28
+# Day 30
+## What's your achivement today?
+Able to explain difficult concepts to students.
+Being recognised.
+
+## What are you grateful of?
+Women's social status has improved a lot with many's efforts. 
+
+## What you wish you can do better?
+I postponed an application for a grant for a month, which I should not delay in the future.
+
+# Day 29
 ## What's your achivement today?
 Made a GitBook about DevOps.   
 Learned more about Git.
@@ -7,7 +18,7 @@ Learned more about Git.
 This world has so many good people who made our lives better.
 
 ## What you wish you can do better?
-
+Can't think of any.
 
 # Day 28
 ## What's your achivement today?

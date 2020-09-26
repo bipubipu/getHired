@@ -1,3 +1,24 @@
+# Day 32
+## What's your achivement today?
+Prepared and conducted an interview.
+Learned about shell.
+
+## What are you grateful of?
+My parents are healthy.
+
+## What you wish you can do better?
+Don't forget to research the company. Speak slowly in the interview.
+
+# Day 31
+## What's your achivement today?
+Prepared for an interview.
+
+## What are you grateful of?
+My real estate agency is supportive.
+
+## What you wish you can do better?
+Start early to prepare for the interview.
+
 # Day 30
 ## What's your achivement today?
 Able to explain difficult concepts to students.

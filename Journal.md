@@ -1,3 +1,13 @@
+# Day 33
+## What's your achivement today?
+Cooked a lot. Learned more scripts. Replied to a few emails.
+
+## What are you grateful of?
+I'm grateful for everything that I have now.
+
+## What you wish you can do better?
+Get up earlier.
+
 # Day 32
 ## What's your achivement today?
 Prepared and conducted an interview.

@@ -1,3 +1,13 @@
+# Day 34
+## What's your achivement today?
+Listened to a talk about React. Created a gitbook. Listened to a few podcasts. Learned new phrases.
+
+## What are you grateful of?
+Friend who shared me the React talk.
+
+## What you wish you can do better?
+Exercise more.
+
 # Day 33
 ## What's your achivement today?
 Cooked a lot. Learned more scripts. Replied to a few emails.

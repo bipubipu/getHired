@@ -1,3 +1,13 @@
+# Day 35
+## What's your achivement today?
+Completed half of a program. Researched Hacktoberfest. Filling in the gitbook.
+
+## What are you grateful of?
+Being invited to a friend's wedding!
+
+## What you wish you can do better?
+Concentrate on one thing first.
+
 # Day 34
 ## What's your achivement today?
 Listened to a talk about React. Created a gitbook. Listened to a few podcasts. Learned new phrases.

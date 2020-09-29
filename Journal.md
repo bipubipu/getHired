@@ -1,3 +1,13 @@
+# Day 36
+## What's your achivement today?
+Filed some paperwork. Did lots of admin work as a volunteer. Reviewed the concept of Promise and updated gitbook.
+
+## What are you grateful of?
+Get a very exciting opportunity. Can't say for now. 
+
+## What you wish you can do better?
+Start coding earlier.
+
 # Day 35
 ## What's your achivement today?
 Completed half of a program. Researched Hacktoberfest. Filling in the gitbook.

@@ -1,3 +1,23 @@
+# Day 38
+## What's your achivement today?
+Feeling very down today. Don't know why. No achivement.
+
+## What are you grateful of?
+My parents are healthy and alive.
+
+## What you wish you can do better?
+Have some motivations.
+
+# Day 37
+## What's your achivement today?
+Gave a class. Made mooncakes for the coming festival.
+
+## What are you grateful of?
+Had a deep conversation with dad. Still have the opportunity to know him more.
+
+## What you wish you can do better?
+Have more meaningful conversations with family.
+
 # Day 36
 ## What's your achivement today?
 Filed some paperwork. Did lots of admin work as a volunteer. Reviewed the concept of Promise and updated gitbook.

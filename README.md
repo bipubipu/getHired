@@ -1,3 +1,6 @@
+## Latest Update 
+I've just accepted a job offer and so, I won't update journal here but I'll keep improving other parts.
+
 ## What is it?
 getHired basically have these following functions:
 * show career goal, career stories 
@@ -7,8 +10,7 @@ getHired basically have these following functions:
 * showcase your projects
 * more waiting for you to create!
 
-If you a job seeker, you can use this as a template in your job hunting. For others, this is a chance to contribute to open source project and learn from others.
-
+If you're a job seeker, you can use this as a template in your job hunting. For others, this is a chance to contribute to open source project and learn from others.
 
 ## Why do you want to do this?
 One of common practices in looking for work is to state you're open to work and have connections share your posts on LinkedIn. But there are several weaknesses:
